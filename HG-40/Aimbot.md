@@ -1,6 +1,6 @@
 # HG 40
 
-**Attachments**
+## Attachments
 
 |Attachment Location|Name|
 |-------------------|-----------|
@@ -14,7 +14,7 @@
 |Laser| OWC Laser - Tactical    |
 |Perk |  Nothing                |
 
-**Gun Stats**
+## Gun Stats
 
 |Stats |Number Before|After|
 |------|-------------|-----|
@@ -28,3 +28,7 @@
 # Recommand
 
 Vulture
+
+# Class Name
+
+I named it this because you can ads so fast.

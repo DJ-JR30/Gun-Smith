@@ -1,6 +1,6 @@
 # HG 40
 
-## creator
+## Creator
 
 DevDex
 
